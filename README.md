@@ -2,7 +2,7 @@
 <img src="./logo.png" alt="logo de bdeb">
 ## GIT : Gestionnaire de version ... 
 ## Analyste : produit du code 
-Omar veut tout effacer
+oui
 
 ## Gestion de version  : 
 - dépots : repository
