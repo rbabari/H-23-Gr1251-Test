@@ -1,4 +1,4 @@
 # Brace yourselves #
 ## the test is runnning##
 
-<img src="./random.png" alt="random photo on google">
+<img src="./random.jpg" alt="random photo on google">
