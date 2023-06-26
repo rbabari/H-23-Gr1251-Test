@@ -14,7 +14,7 @@ dossier .git dans lequel il y'a toute l'information concernant les différents v
 MIT/GNU Scheme est une implémentation Scheme initialement développée au sein du MIT sous l’appellation MIT Scheme, puis intégrée au projet GNU par Hal Abelson. 
 
 - commit 
-- branches / cllaborer 
+- branches / cllaborer : Dylan
 - pull request
 - pull / push
 - merge
