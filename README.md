@@ -10,7 +10,9 @@ créer un dossier dans lequel se trouve le projet. Il y'a également un fichier 
 dossier .git dans lequel il y'a toute l'information concernant les différents versions de votre code ... 
 
 - readme.md
-- ( MIT / GNU / )
+### 3- ( MIT / GNU / )
+MIT/GNU Scheme est une implémentation Scheme initialement développée au sein du MIT sous l’appellation MIT Scheme, puis intégrée au projet GNU par Hal Abelson. 
+
 - commit 
 - branches / cllaborer 
 - pull request
