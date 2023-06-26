@@ -21,7 +21,11 @@ MIT/GNU Scheme est une implémentation Scheme initialement développée au sein 
 - pull / push
 - merge
 - gerer des conflits
-- visualiser network
+## visualiser network
+What is network visualization? Network visualization, also known as graph visualization or link analysis, is the process of visually presenting networks of connected entities as links and nodes. Nodes represent data points, and links represent the connections between them.
+<img src="./visual-network.png" alt="image visualiser network">
+
+
 - clone
 
 ## Projets : 
