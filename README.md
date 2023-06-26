@@ -5,7 +5,10 @@
 Omar veut tout effacer
 
 ## Gestion de version  : 
-- dépots : repository
+### 1- dépots : repository
+créer un dossier dans lequel se trouve le projet. Il y'a également un fichier .gitignore et un 
+dossier .git dans lequel il y'a toute l'information concernant les différents versions de votre code ... 
+
 - readme.md
 - ( MIT / GNU / )
 - commit 
