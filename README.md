@@ -23,7 +23,7 @@ MIT/GNU Scheme est une implémentation Scheme initialement développée au sein 
 - clone
 
 ## Projets : 
-- Sprint : 
+- Sprint : Quelle merveille!!
 - ISSUE : tâche
 - Milestone : jalon
 - Tableau KANBAN
