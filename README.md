@@ -4,6 +4,8 @@
 ## Analyste : produit du code 
 oui
 
+ajkfjfdjsafjkadfklg
+
 ## Gestion de version  : 
 ### 1- dépots : repository
 créer un dossier dans lequel se trouve le projet. Il y'a également un fichier .gitignore et un 
