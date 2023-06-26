@@ -21,7 +21,7 @@ MIT/GNU Scheme est une implémentation Scheme initialement développée au sein 
 - pull / push
 - merge
 - gerer des conflits
-- visualiser network
+## visualiser network 
 - clone
 
 ## Projets : 
