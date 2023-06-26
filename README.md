@@ -17,6 +17,7 @@ MIT/GNU Scheme est une implémentation Scheme initialement développée au sein 
 - branches / cllaborer 
 - pull request
 - pull / push
+  La stratégie Push consiste à pousser le produit ou service vers le futur client. De son côté, la stratégie Pull vise à attirer le client vers la marque et même vers un achat
 - merge
 - gerer des conflits
 - visualiser network
