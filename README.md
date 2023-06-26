@@ -27,6 +27,6 @@ dossier .git dans lequel il y'a toute l'information concernant les différents v
 - Tableau KANBAN
 - branche-issue
 - close le issue quand la branche est merge
-- Serveur Web (Readme Md)
+- Serveur Web (Readme Md) -- Xavier (ノಠ益ಠ)ノ彡┻━┻
 
 bonjour
