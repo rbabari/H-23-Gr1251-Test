@@ -15,7 +15,7 @@ MIT/GNU Scheme est une implémentation Scheme initialement développée au sein 
 
 - commit 
 - branches / cllaborer 
-- pull request
+- pull request : le pull request permet de demander des changements a un code écrit par une autre personne que le propriétaire.
 - pull / push
 - merge
 - gerer des conflits
