@@ -32,5 +32,5 @@ MIT/GNU Scheme est une implémentation Scheme initialement développée au sein 
 - branche-issue
 - close le issue quand la branche est merge
 - Serveur Web (Readme Md) -- Xavier (ノಠ益ಠ)ノ彡┻━┻
-
+-C'est bien de versionner son projet
 bonjour
