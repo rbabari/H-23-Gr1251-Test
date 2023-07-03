@@ -17,8 +17,8 @@ MIT/GNU Scheme est une implémentation Scheme initialement développée au sein 
 
 - commit 
 - branches / cllaborer 
-- pull request
-- pull / push
+- pull reque st
+## - pull / push Seb
 - merge
 - gerer des conflits
 - visualiser network
